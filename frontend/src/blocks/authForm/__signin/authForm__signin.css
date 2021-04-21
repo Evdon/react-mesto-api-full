@@ -1,0 +1,11 @@
+@import url(./_disabled/authForm__signin_disabled.css);
+.authForm__signin {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 15px 0 0;
+}

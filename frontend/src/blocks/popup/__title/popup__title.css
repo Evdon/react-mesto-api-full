@@ -1,0 +1,19 @@
+@import url(./_delete/popup__title_delete.css);
+.popup__title {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 29px;
+    margin: 32px auto 54px;
+    max-width: 358px;
+    text-align: center;
+}
+
+@media screen and (max-width: 530px){
+    .popup__title {
+        max-width: 238px;
+        font-weight: 900;
+        font-size: 18px;
+        line-height: 22px;
+    }
+}

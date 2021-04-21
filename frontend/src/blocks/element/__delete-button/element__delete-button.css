@@ -1,0 +1,19 @@
+@import url(./_hidden/element__delete-button_hidden.css);
+@import url(./_visible/element__delete-button_visible.css);
+.element__delete-button{
+    border: 0;
+    position: absolute;
+    width: 18px;
+    height: 19px;
+    top: 18px;
+    right: 15px;
+    background-image: url(../../../images/trash.svg);
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0);
+    transition: opacity .1s linear;
+}
+
+.element__delete-button:hover {
+    opacity: 0.6;
+    cursor: pointer;
+}

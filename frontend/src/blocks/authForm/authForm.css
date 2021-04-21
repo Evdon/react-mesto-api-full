@@ -1,0 +1,14 @@
+@import url(./__submit-button/authForm__submit-button.css);
+@import url(./__field/authForm__field.css);
+@import url(./__form/authForm__form.css);
+@import url(./__input/authForm__input.css);
+@import url(./__signin-link/authForm__signin-link.css);
+@import url(./__signin/authForm__signin.css);
+@import url(./__title/authForm__title.css);
+.authForm {
+    display: flex;
+    background-color: #000000;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}

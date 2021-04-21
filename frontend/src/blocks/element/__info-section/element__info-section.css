@@ -1,0 +1,8 @@
+.element__info-section {
+    display: flex;
+    margin: 25px 0 31px 21px;
+    max-width: 246px;
+    max-height: 23px;
+    justify-content: space-between;
+    align-items: center;
+}

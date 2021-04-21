@@ -1,0 +1,13 @@
+@import url(./_disabled/header__button_disabled.css);
+.header__button{
+    border: none; 
+    background: none;
+    color: #A9A9A9;
+    transition: opacity .1s linear;
+    outline: none;
+}
+
+.header__button:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}

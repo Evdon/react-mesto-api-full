@@ -1,0 +1,6 @@
+@import url(./_infoTooltip/popup__img_infoTooltip.css);
+.popup__img{
+    max-width: 75vw;
+    max-height: 75vh;
+    margin: 0;
+}

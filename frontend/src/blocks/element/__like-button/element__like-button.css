@@ -1,0 +1,18 @@
+@import url(./_active/element__like-button_active.css);
+@import url(./_disable/element__like-button_disable.css);
+.element__like-button {
+    border: 0;
+    background-size: cover;
+    background-color: white;
+    width: 20px;
+    height: 18px;
+    padding: 0;
+    transition: opacity .1s linear;
+    margin-bottom: 3px;
+}
+
+.element__like-button:hover {
+    opacity: 0.6;
+    cursor: pointer;
+  }
+  
